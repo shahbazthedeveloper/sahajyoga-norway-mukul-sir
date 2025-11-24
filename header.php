@@ -46,6 +46,7 @@
                     <li><a href="oslo-center.php" class="block py-2 font-semibold text-gray-600 hover:text-gray-800">Oslo</a></li>
                     <li><a href="bergen-center.php" class="block py-2 font-semibold text-gray-600 hover:text-gray-800">Bergen</a></li>
                     <li><a href="moss-center.php" class="block py-2 font-semibold text-gray-600 hover:text-gray-800">Moss</a></li>
+                    <li><a href="horten-center.php" class="block py-2 font-semibold text-gray-600 hover:text-gray-800">Horten</a></li>
                     <li><a href="online-meditation-program.php" class="block py-2 font-semibold text-gray-600 hover:text-gray-800">Online</a></li>
                 </ul>
             </nav>
