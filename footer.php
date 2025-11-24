@@ -9,10 +9,11 @@
                 <ul class="flex flex-wrap gap-x-2 gap-y-1 text-sm">
                     <li><a href="about-sahajyog-meditation.php" class="hover:text-gray-800" x-show="language === 'en'">About SY Meditation</a><a href="about-sahajyog-meditation.php" class="hover:text-gray-800" x-show="language === 'no'">Om SY Meditasjon</a> |</li>
                     <!-- <li><a href="editation-courses.php" class="hover:text-gray-800" x-show="language === 'en'">Meditation Courses</a><a href="#courses" class="hover:text-gray-800" x-show="language === 'no'">Meditasjonskurs</a> |</li> -->
-                    <li><a href="oslo-center.php" class="hover:text-gray-800" x-show="language === 'en'">Oslo</a><a href="#events" class="hover:text-gray-800" x-show="language === 'no'">Oslo</a> |</li>
-                    <li><a href="bergen-center.php" class="hover:text-gray-800" x-show="language === 'en'">Bergen</a><a href="#contact" class="hover:text-gray-800" x-show="language === 'no'">Bergen</a> |</li>
-                    <li><a href="moss-center.php" class="hover:text-gray-800" x-show="language === 'en'">Moss</a><a href="#contact" class="hover:text-gray-800" x-show="language === 'no'">Moss</a> |</li>
-                    <li><a href="online-meditation-program.php" class="hover:text-gray-800" x-show="language === 'en'">Online</a><a href="#contact" class="hover:text-gray-800" x-show="language === 'no'">Online</a></li>
+                    <li><a href="oslo-center.php" class="hover:text-gray-800" x-show="language === 'en'">Oslo</a><a href="oslo-center.php" class="hover:text-gray-800" x-show="language === 'no'">Oslo</a> |</li>
+                    <li><a href="bergen-center.php" class="hover:text-gray-800" x-show="language === 'en'">Bergen</a><a href="bergen-center.php" class="hover:text-gray-800" x-show="language === 'no'">Bergen</a> |</li>
+                    <li><a href="moss-center.php" class="hover:text-gray-800" x-show="language === 'en'">Moss</a><a href="moss-center.php" class="hover:text-gray-800" x-show="language === 'no'">Moss</a> |</li>
+                    <li><a href="horten-center.php" class="hover:text-gray-800" x-show="language === 'en'">Horten</a><a href="horten-center.php" class="hover:text-gray-800" x-show="language === 'no'">Horten</a> |</li>
+                    <li><a href="online-meditation-program.php" class="hover:text-gray-800" x-show="language === 'en'">Online</a><a href="online-meditation-program.php" class="hover:text-gray-800" x-show="language === 'no'">Online</a></li>
                 </ul>
             </div>
 
