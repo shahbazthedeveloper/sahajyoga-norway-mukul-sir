@@ -96,9 +96,9 @@
             </div>
             <!-- Norwegian Text -->
             <div x-show="language === 'no'">
-                <p>Bli med på våre meditasjoner. Hvis du bor i horten, gjerne ta kontakt for mer informasjon.</p>
+                <p>Bli med p책 v책re meditasjoner. Hvis du bor i Horten, gjerne ta kontakt for mer informasjon.</p>
                 <br>
-                <p><strong>Programmene er alltid gratis og åpne for alle.</strong></p>
+                <p><strong>Programmene er alltid gratis og 책pne for alle.</strong></p>
             </div>
           </div>
         </div>
